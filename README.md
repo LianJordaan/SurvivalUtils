@@ -23,7 +23,7 @@ SurvivalUtils comes with the following built-in settings:
 
 ## Installation
 
-1. Download the latest release of the SurvivalUtils plugin from the [GitHub repository](https://github.com/yourusername/SurvivalUtils/releases).
+1. Download the latest release of the SurvivalUtils plugin from the [GitHub repository](https://github.com/LianJordaan/SurvivalUtils/releases).
 2. Place the downloaded JAR file into the plugins folder of your Minecraft server.
 3. Restart the server to load the plugin.
 4. Configure the plugin settings in the `config.yml` file located in the plugin's folder.
