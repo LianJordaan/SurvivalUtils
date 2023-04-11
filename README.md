@@ -31,7 +31,7 @@ SurvivalUtils comes with the following built-in settings:
 
 ## Contributing
 
-If you would like to contribute to the SurvivalUtils project, you are welcome to submit pull requests or report issues on the [GitHub repository](https://github.com/yourusername/SurvivalUtils). Please review the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to the project.
+If you would like to contribute to the SurvivalUtils project, you are welcome to submit pull requests or report issues on the [GitHub repository](https://github.com/LianJordaan/SurvivalUtils). Please review the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to the project.
 
 ## License
 
