@@ -1,0 +1,13 @@
+allowEndermanBreak: true
+allowEndermanPlace: true
+
+allowCreeperGrief: true
+allowCreeperDamagePlayer: true
+allowCreeperDamageOther: true
+
+allowTntGrief: true
+allowTntDamagePlayer: true
+allowTntDamageOther: true
+
+allowPlayerCropTrample: true
+allowOtherCropTrample: true

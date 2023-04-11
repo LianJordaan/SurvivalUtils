@@ -1,0 +1,9 @@
+name: Survival-QOL
+version: '${project.version}'
+main: survivalutils.survivalutils.SurvivalUtils
+api-version: 1.18
+authors: [ Lian, Eszi ]
+description: This is a plugin that adds a lot of survival utility's
+commands:
+  survivalutils:
+    description: test
